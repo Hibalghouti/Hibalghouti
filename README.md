@@ -1,10 +1,10 @@
 
 
 <h1 align="center">
-    ### 🌟 Welcome to Hiba's Code Wonderland! 🦄🎡  
+     🌟 Welcome to My Code Wonderland! 🦄🎡  
 </h1>
 
-<h3 align="center">A Computer Engineering Student</h3>
+<h3 align="center">I'm a Computer Engineering Graduate</h3>
 
 <div align="center">
  🔭 I’m currently working on **Learning new skills**
